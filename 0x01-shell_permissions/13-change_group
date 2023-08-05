@@ -1,2 +1,2 @@
 #!/bin/bash
-change_group  school hello 
+chgrp school 
