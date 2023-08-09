@@ -1,0 +1,3 @@
+#!/bin/bash
+Me="hello"
+echo "$Me id"
