@@ -1,2 +1,2 @@
 #!/bin/bash
-Me="hello" | echo "$Me root"
+echo "hello root"
