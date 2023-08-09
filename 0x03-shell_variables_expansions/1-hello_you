@@ -1,2 +1,2 @@
 #!/bin/bash
-Me="hello" | echo "$Me id"
+Me="hello" | echo "$Me  MyUser"
